@@ -26,6 +26,7 @@ class Fun extends StatelessWidget {
       appBar: AppBar(
         leading: Icon(Icons.home),
         title: Text('好友列表'),
+
         centerTitle: true,
 
       ),
